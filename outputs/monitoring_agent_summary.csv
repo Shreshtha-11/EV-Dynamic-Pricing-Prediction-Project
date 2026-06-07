@@ -1,0 +1,11 @@
+metric,value
+Avg Wait Time Before (mins),6.382
+Avg Wait Time After (mins),1.558
+Wait Time Reduction %,75.6
+Customer Response Rate %,100.0
+Surge Zone Decisions %,66.3
+Discount Zone Decisions %,16.2
+Avg Revenue Gain % across Episodes,47.91
+Avg Pricing Efficiency Score,1211.41
+Prediction RMSE ST-EVCDP,0.0353
+Prediction R2 ST-EVCDP,0.9892

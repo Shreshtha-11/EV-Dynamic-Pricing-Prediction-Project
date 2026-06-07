@@ -1,0 +1,9 @@
+metric,value
+Baseline Revenue,54810967.32
+Dynamic Revenue,81070255.03
+Revenue Gain %,47.91
+Avg Utilization Before,0.771
+Avg Utilization After,0.677
+Congestion % Before,66.3
+Congestion % After,63.0
+Sessions Shifted to Off-Peak,3196.0
